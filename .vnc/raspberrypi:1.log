@@ -1,0 +1,11 @@
+27/05/16 14:27:34 Xvnc version TightVNC-1.3.9
+27/05/16 14:27:34 Copyright (C) 2000-2007 TightVNC Group
+27/05/16 14:27:34 Copyright (C) 1999 AT&T Laboratories Cambridge
+27/05/16 14:27:34 All Rights Reserved.
+27/05/16 14:27:34 See http://www.tightvnc.com/ for information on TightVNC
+27/05/16 14:27:34 Desktop name 'X' (raspberrypi:1)
+27/05/16 14:27:34 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+27/05/16 14:27:34 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/pi/.Xresources'
